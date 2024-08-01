@@ -1,0 +1,17 @@
+.drag{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 300px;
+}
+.drop{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+}
